@@ -1,7 +1,7 @@
-REST-auth
+REST-api-base
 =========
 
-Companion application to my [RESTful Authentication with Flask](http://blog.miguelgrinberg.com/post/restful-authentication-with-flask) article.
+Basic starting point for lightweight rest api based on Miguel Grinberg's REST-auth, which itself is the companion application to his [RESTful Authentication with Flask](http://blog.miguelgrinberg.com/post/restful-authentication-with-flask) article.
 
 Installation
 ------------
